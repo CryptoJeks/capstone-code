@@ -1,1 +1,3 @@
-"# capstone-code" 
+Data Lake Automation Solution is used to help corporations struggling with large pool of customers with different data needs. 
+A good Data Lake Automation Services makes it possible for companies to correlate, transform, query and visualize data from different sources into a single source of Truth. 
+I used AWS services such as, AWS CloudFormation, AWS Lambda, Amazon S3, Amazon CloudFront, Amazon DynamoDB, Amazon API Gateway, Data Lake Console and CLI, Amazon Cognito, Amazon Kinesis Firehose, Amazon Kinesis Data Stream, SNS Topic, Amazon CloudWatch Logs, Amazon Athena and Amazon ElasticSearch Services.
